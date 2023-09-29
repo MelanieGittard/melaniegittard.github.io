@@ -26,8 +26,7 @@ Industrial mining can be a boon or a bane for communities living in the vicinity
     </p>
     </details> 
 
-This paper was awarded the <a href="https://faere.fr/conference-faere-2021-prix-faere-du-meilleur-article-de-jeunes-economistes/"> Special Mention at the FAERE 2021 
-and the <a href="https://www.sisclima.it/conferenza-annuale-2020/"> Best Poster Award at the ClimRisk2020 
+This paper was awarded the <a href="https://faere.fr/conference-faere-2021-prix-faere-du-meilleur-article-de-jeunes-economistes/"> Special Mention at the FAERE 2021 from the _French Association of Environmental and Resource Economists_ </a> and the <a href="https://www.sisclima.it/conferenza-annuale-2020/"> Best Poster Award at the ClimRisk2020 from the _Italian Society for Climate Science_
 
 
  * __[Impacts of repetitive droughts and the key role of experience : evidence from Nigeria](../files/GITTARD2023_Nigeria.pdf)__
