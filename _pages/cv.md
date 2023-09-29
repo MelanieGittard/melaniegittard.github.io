@@ -8,52 +8,23 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Full CV](https://melaniegittard.github.io/files/CV_GITTARD.pdf)
+### Current position
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2023: Postdoctoral fellow, Paris Saclay University-AgroParisTech-INRAE 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Education
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018-2023: Ph.D in Economics, Paris School of Economics, CIRED and ENPC. 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2017-2018: Master in Economics - Public Policy and Development, Paris School of Economics
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2014-2017: Master in engineering, specialization in applied mathematics and geostatistics, Mines Nancy (exchange master degree with Mines Paris). 
+
+### Past positions
+
+* 2021-2023: Postdoctoral researcher, Misum, Stockholm School of Economics
+* 2019-2021: Teaching Fellow (ATER), University Paris 1
+* 2018-2021: Teaching Assistant, University Paris 1
+* 2016-2017: Economic intern, OECD, Paris
+*2016: Research intern, Fondazione Eni Enrico Mattei, Milan 
