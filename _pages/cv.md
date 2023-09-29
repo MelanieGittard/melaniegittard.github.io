@@ -27,4 +27,4 @@ redirect_from:
 * 2019-2021: Teaching Fellow (ATER), University Paris 1
 * 2018-2021: Teaching Assistant, University Paris 1
 * 2016-2017: Economic intern, OECD, Paris
-*2016: Research intern, Fondazione Eni Enrico Mattei, Milan 
+* 2016: Research intern, Fondazione Eni Enrico Mattei, Milan 
