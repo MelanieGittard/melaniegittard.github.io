@@ -23,7 +23,6 @@ redirect_from:
 
 ### Past positions
 
-* 2021-2023: Postdoctoral researcher, Misum, Stockholm School of Economics
 * 2019-2021: Teaching Fellow (ATER), University Paris 1
 * 2018-2021: Teaching Assistant, University Paris 1
 * 2016-2017: Economic intern, OECD, Paris
