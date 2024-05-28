@@ -9,12 +9,13 @@ redirect_from:
 
 __Welcome to my website!__
 
-* I'm currently a __postdoctoral fellow__ at the <a href="https://www.agroparistech.fr/recherche/unites-recherche/paris-saclay-applied-economics-psae">__Paris Saclay Applied Economics (PSAE)__</a>. I recently completed my __PhD__ in January 2023, at the <a href="https://www.parisschoolofeconomics.eu/en/">__Paris School of Economics__</a> and <a href="https://www.centre-cired.fr/en/">__CIRED__</a>.
+* I am an __applied environmental and development economist__. My research centers around the impacts of __climate change__ and __water pollution__ in sub-Saharan Africa.
 
+* In September, I will join the <a href="https://fse.fsi.stanford.edu/"><strong>Center on Food Security and the Environment</strong></a> at <strong>Stanford University</strong> as a __postdoctoral researcher__.
 
-* I'm an __applied environmental and development economist__. My research centers around the impacts of __climate change__ and __water pollution__ in sub-Saharan Africa.
+* I am a consultant at the World Bank Group and was a research fellow at the <a href="https://www.agroparistech.fr/recherche/unites-recherche/paris-saclay-applied-economics-psae">__Paris Saclay Applied Economics (PSAE)__</a>. I completed my __PhD__  at the <a href="https://www.parisschoolofeconomics.eu/en/">__Paris School of Economics__</a> and <a href="https://www.centre-cired.fr/en/">__CIRED__</a> in 2023.
 
-* I am on the 2023/2024 Job Market. My job market sheds light on the adverse effects of industrial mining-induced water pollution on child mortality across Africa.
+*  My job market sheds light on the adverse effects of industrial mining-induced water pollution on child mortality across Africa.
 
 * You can find my __CV__ <a href="http://melaniegittard.github.io/files/CV_GITTARD.pdf">here</a>.
 
