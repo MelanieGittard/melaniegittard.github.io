@@ -23,9 +23,9 @@ redirect_from:
 
 ### Policy experience 
 
-*2024: Consultant, World Bank Group - Africal Gender Innovation Lab (AFEGl-GIL)
+* 2024: Consultant, World Bank Group - Africal Gender Innovation Lab (AFEGl-GIL)
 
-*2017: Intern, OECD - Statistical Directorate (STD) and Center for Entrepreneurship (CFE)
+* 2017: Intern, OECD - Statistical Directorate (STD) and Center for Entrepreneurship (CFE)
 
 ### Past positions
 * 2023 : Research Fellow, Paris Saclay University-AgroParisTech-INRAE
