@@ -8,7 +8,7 @@ author_profile: true
 
 ## Job Market Paper
 
- * __[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/GITTARD_HU2023.pdf)__, (with [Irène Hu](https://hu-irene.github.io/))
+ * __[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/GITTARD_HU2024_WP.pdf)__, (with [Irène Hu](https://hu-irene.github.io/))
 In the midst of Africa's mining boom, communities downstream from industrial mines face increased exposure to toxic waste. Yet, the effects of induced water pollution on the local population’s health have not been quantified at the scale of Africa, due to data limitation and nonrandom exposure. This paper investigates this question using a quasi-experimental design and a novel dataset detailing the location and opening dates of all known industrial mines, obtained through intensive manual data collection. We combine geo-coded information on 2,016 industrial mines with health outcomes from the Demographic Health Survey (DHS) from 1986 to 2018 in 26 African countries. Through a staggered difference-in-difference strategy, we compare villages downstream and upstream of mines before and after opening and find a 25% increase in 24-month mortality rates downstream. The effect is mainly observed among children no longer breastfed, confirming that water pollution drives the results. Our analysis rules out other mechanisms such as fertility changes, access to facilities, in-migration, conflicts and income effects. The impact intensifies during mine operation and high international mineral prices, especially in densely mined regions, and fades out with distance. From a public policy perspective, this paper underscores the significant local costs of mine openings on the environment and the health of the surrounding populations.
 
 
@@ -16,7 +16,7 @@ In the midst of Africa's mining boom, communities downstream from industrial min
 
 ## Working Papers
 
- * __[Droughts, Migration and Population in Kenya](../files/GITTARD2022_Kenya.pdf)__
+ * __[Droughts, Migration and Population in Kenya](../files/GITTARD2024a_WP.pdf)__
 
  <details>
     <summary> Abstract: </summary>
@@ -28,7 +28,7 @@ In the midst of Africa's mining boom, communities downstream from industrial min
 This paper was awarded the <a href="https://faere.fr/conference-faere-2021-prix-faere-du-meilleur-article-de-jeunes-economistes/"> Special Mention at the FAERE 2021  </a> from the _French Association of Environmental and Resource Economists_  and the <a href="https://www.sisclima.it/conferenza-annuale-2020/"> Best Poster Award at the ClimRisk2020  </a>  from the _Italian Society for Climate Science_
 
 
- * __[Impacts of repetitive droughts and the key role of experience : evidence from Nigeria](../files/GITTARD2023_Nigeria.pdf)__
+ * __[Impacts of repetitive droughts and the key role of experience : evidence from Nigeria](../files/GITTARD2024b_WP.pdf)__
 
  <details>
     <summary> Abstract: </summary>
