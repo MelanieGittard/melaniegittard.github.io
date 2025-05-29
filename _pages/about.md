@@ -13,7 +13,8 @@ __Welcome to my website!__
 
 * I am an __applied environmental and development economist__. My research centers around the impacts of __climate change__ and __water pollution__ in sub-Saharan Africa.
 
-*  My <a href="http://melaniegittard.github.io/files/GITTARD_HU2023.pdf">job market paper</a> sheds light on the adverse effects of industrial mining-induced water pollution on child mortality across Africa.
+*  In one strand of my research, I shed light on the adverse effects of industrial mining-induced water pollution on child mortality across Africa ( <a href="http://melaniegittard.github.io/files/GITTARD_HU2023.pdf">MiningLeaks</a>). Another focus of my work explores climate-induced migration and the impacts of climate shocks on agricultural production and food security.
+
 
 *  I completed my __PhD__  at the <a href="https://www.parisschoolofeconomics.eu/en/">__Paris School of Economics__</a> and <a href="https://www.centre-cired.fr/en/">__CIRED__</a> in 2023.
 
