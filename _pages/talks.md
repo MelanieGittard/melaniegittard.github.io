@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 ## Conferences and Seminars :
 
-* __2025__: AERE 2025 Summer Conference, Eastern Economic Association 51st Annual Conference AERE Session, Economic History and the Environment Workshop at Paris School of Economics
+* __2025__: AERE 2025 Summer Conference, Eastern Economic Association 51st Annual Conference AERE Session, Economic History and the Environment Workshop at Paris School of Economics, AFRICA-GIL World Bank Seminar 
 
 * __2024__: NEUDC 2024 -The North East Universities Development Consortium, CSAE - Conference Economic
 Development in Africa, CFE-CMStatistics 2024 Kings College London, CERDI external seminar, ENS Lyon seminar, FSE Stanford seminar 
