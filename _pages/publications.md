@@ -6,15 +6,20 @@ author_profile: true
 ---
 
 
-## Job Market Paper
-
- * __[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/GITTARD_HU2024_WP.pdf)__, (with [Irène Hu](https://hu-irene.github.io/))
-In the midst of Africa's mining boom, communities downstream from industrial mines face increased exposure to toxic waste. Yet, the effects of induced water pollution on the local population’s health have not been quantified at the scale of Africa, due to data limitation and nonrandom exposure. This paper investigates this question using a quasi-experimental design and a novel dataset detailing the location and opening dates of all known industrial mines, obtained through intensive manual data collection. We combine geo-coded information on 2,016 industrial mines with health outcomes from the Demographic Health Survey (DHS) from 1986 to 2018 in 26 African countries. Through a staggered difference-in-difference strategy, we compare villages downstream and upstream of mines before and after opening and find a 25% increase in 24-month mortality rates downstream. The effect is mainly observed among children no longer breastfed, confirming that water pollution drives the results. Our analysis rules out other mechanisms such as fertility changes, access to facilities, in-migration, conflicts and income effects. The impact intensifies during mine operation and high international mineral prices, especially in densely mined regions, and fades out with distance. From a public policy perspective, this paper underscores the significant local costs of mine openings on the environment and the health of the surrounding populations.
-
-
-
 
 ## Working Papers
+
+ * __[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/GITTARD_HU2024_WP.pdf)__, (with [Irène Hu](https://hu-irene.github.io/)) - *Submitted*
+
+ <details>
+    <summary> Abstract: </summary>
+    <br>
+    <p align="justify"> We investigate the effects of industrial mining-induced water pollution on child mortality in Africa. We construct a novel dataset by retrieving opening dates for 2,016 industrial mines and combine them with health data from 26 African countries (1986–2018). Using a staggered difference-in-differences approach comparing downstream and upstream villages, we find a 25% increase in 24-month mortality downstream after mine opening, particularly among nonbreastfed children. Effects are stronger during mine operation, at high mineral prices, and in densely mined regions, and decrease with distance. We rule out alternative mechanisms including fertility, health access, in-migration, conflict, and income effects.
+       </p>
+    </details> 
+
+
+
 
  * __[Droughts, Migration and Population in Kenya](../files/GITTARD2024a_WP.pdf)__
 
@@ -38,6 +43,29 @@ This paper was awarded the <a href="https://faere.fr/conference-faere-2021-prix-
     </details> 
 
 
+ * __[Women and Climate Adaptation in Rural Sub-Saharan Africa Constraints and Research Priorities (../files/Delavallade_Gittard_Vaillant2025.pdf)__, (with [Clara Delavallade](https://sites.google.com/site/claradelavallade/) and [Julia Vaillant](https://scholar.google.com/citations?user=UukWzp0AAAAJ&hl=fr) )
+
+ <details>
+    <summary> Abstract: </summary>
+    <br>
+    <p align="justify"> Sub-Saharan Africa is highly vulnerable to climate change, with rural women disproportionately affected due to pre-existing gender inequalities that both increase their need for adaptation and constrain their ability to adopt strategies. This paper reviews empirical evidence on key barriers to women’s climate adaptation, identifies critical knowledge gaps, and outlines a gender-informed policy and research agenda. Focusing on on-farm and off-farm adaptation strategies --- including climate-smart agriculture, weather insurance, income diversification, and migration --- the paper highlights key constraints limiting women's adaptive capacity: financial limitations, restricted asset control and ownership, gender norms positioning women as primary caregivers and shock absorbers, lower human and social capital, and limited access to climate and technology information. Substantial gaps remain in understanding how women’s financial literacy, institutional trust, risk and climate perception, and social networks affect their adaptation. Evidence-supported interventions include information provision on climate-smart agricultural technologies and social protection, while emerging but less established interventions include socio-emotional skills programs, childcare, and land titling. Underexplored yet promising interventions involve expanding women’s access to digital climate services, strengthening social networks, and engaging men in shifting intra-household roles. Significant knowledge gaps persist regarding the main constraints women face in adopting migration as an adaptation strategy.
+       </p>
+    </details> 
+
+  ## Selected Work in progress
+
+* __Climate Shocks and Informal Settlements__,(with [Eleanor Wiseman](https://www.eleanorwiseman.com/))
+
+* __Climate Shocks, Food Security and Market Prices in Africa: the role of Supply Chains ?__,(with [Eleanor Wiseman](https://www.eleanorwiseman.com/))
+
+* __Climate Resilient School Meals__, (with Jennifer Burney, Rosamund Naylor, Nathalie Lambrecht, Siddharth Sachdeva and Eleanor Wiseman) 
+
+* __Industrial Mining and Migration__
+
+ 
+* __Irrigation adoption and efficiency facing droughts : agricultural productivity in South Africa ?__,(with Raja Chakir and Julien Wolfersberger) 
+
+
 ## Publications in other fields
 
 
@@ -48,10 +76,6 @@ This paper was awarded the <a href="https://faere.fr/conference-faere-2021-prix-
 
  * __[Changement climatique et migrations : les transferts de fonds des migrants comme amortisseurs ?](https://www.cairn.info/revue-mondes-en-developpement-2017-3-page-85.htm)__,(with Olivier Damette)  _Mondes en Développement_, No179, March 2017. 
 
-## Work in progress
-
-
-* __Irrigation adoption and efficiency facing droughts : agricultural productivity in South Africa ?__,(with Raja Chakir and Julien Wolfersberger) 
 
 
  
