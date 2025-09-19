@@ -43,7 +43,7 @@ This paper was awarded the <a href="https://faere.fr/conference-faere-2021-prix-
     </details> 
 
 
- * __[Women and Climate Adaptation in Rural Sub-Saharan Africa Constraints and Research Priorities (../files/Delavallade_Gittard_Vaillant2025.pdf)__, (with [Clara Delavallade](https://sites.google.com/site/claradelavallade/) and [Julia Vaillant](https://scholar.google.com/citations?user=UukWzp0AAAAJ&hl=fr) )
+ * __[Women and Climate Adaptation in Rural Sub-Saharan Africa Constraints and Research Priorities](../files/Delavallade_Gittard_Vaillant2025.pdf)__, (with [Clara Delavallade](https://sites.google.com/site/claradelavallade/) and [Julia Vaillant](https://scholar.google.com/citations?user=UukWzp0AAAAJ&hl=fr) )
 
  <details>
     <summary> Abstract: </summary>
