@@ -52,7 +52,7 @@ This paper was awarded the <a href="https://faere.fr/conference-faere-2021-prix-
        </p>
     </details> 
 
-  ## Selected Work in progress
+## Selected Work in progress
 
 * __Climate Shocks and Informal Settlements__,(with [Eleanor Wiseman](https://www.eleanorwiseman.com/))
 
