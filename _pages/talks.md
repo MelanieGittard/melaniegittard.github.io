@@ -7,7 +7,10 @@ author_profile: true
 {% include base_path %}
 ## Conferences and Seminars :
 
+* __2025__: AERE 2025 Summer Conference, Eastern Economic Association 51s Annual Conference AERE Session, Economic History and the Environment Workshop at Paris School of Economics
 
+* __2024__: NEUDC 2024 -The North East Universities Development Consortium, CSAE - Conference Economic
+Development in Africa, CFE-CMStatistics 2024 Kings College London, CERDI external seminar, ENS Lyon seminar, FSE Stanford seminar 
 
 * __2023__: LSE Environment week,  EAERE - 28th Annual Conference of the European Association of Environmental and Resource Economists, EEA-ENSEM - European Economic Association, FAERE - 10th Annual Conference of the  French Association of Environmental Economists, ICDE -  International Conference in Development Economics, AFSE - The 71th Congress of the French Economic Association, Workshop Resources, conflict, and the environment - ETH Zurich 
 
