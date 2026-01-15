@@ -52,13 +52,24 @@ This paper was awarded the <a href="https://faere.fr/conference-faere-2021-prix-
        </p>
     </details> 
 
+
+ * __[Climate Resilient School Meals](https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-11/RF%20Climate%20Resilient%20School%20Meals%20Report%20-%20Draft.pdf)_, (with Jennifer Burney, Rosamund Naylor, Nathalie Lambrecht, Siddharth Sachdeva and Eleanor Wiseman)
+
+ <details>
+    <summary> Abstract: </summary>
+    <br>
+    <p align="justify"> School feeding programs are an increasingly important and cost-effective nutritional backstop in a majority of countries, but the climate resilience of this social safety net is not well-characterized. In particular, status quo procurement policies, including food purchased via international markets or acquired through bilateral trade or aid agreements, may be inadvertently exposing school feeding programs and the children that depend on them to climate risk (domestically or abroad), associated price volatility, and larger-scale regional shocks that could collapse programs. Here we present the first systematic empirical study of climate risk to school feeding programs, taking into account the composition of school meals, where procured food is grown, and how it is produced and acquired. This analysis provides both baseline vulnerability assessments for individual school feeding programs and larger-scale characterization of risk and  opportunity in the school meals social safety net as a whole. Through simple scenario analyses and case studies, we also explore opportunities for resilience through procurement policies, including requiring more climate-resilient methods of food production (i.e., regenerative agriculture) and options for purchasing domestic versus internationally traded products.
+       </p>
+    </details> 
+
+
 ## Selected Work in progress
 
-* __Climate Shocks and Informal Settlements__,(with [Eleanor Wiseman](https://www.eleanorwiseman.com/))
+* __Climate Migration and Urban Integration in Africa__,(with [Eleanor Wiseman](https://www.eleanorwiseman.com/))
 
 * __Climate Shocks, Food Security and Market Prices in Africa: the role of Supply Chains ?__,(with [Eleanor Wiseman](https://www.eleanorwiseman.com/))
 
-* __Climate Resilient School Meals__, (with Jennifer Burney, Rosamund Naylor, Nathalie Lambrecht, Siddharth Sachdeva and Eleanor Wiseman) 
+* __Global Damage Functions__, (with Siddharth Sachdeva, Jennifer Burney, Rosamund Naylor, Nathalie Lambrecht, and Eleanor Wiseman) 
 
 * __Industrial Mining and Migration__
 
