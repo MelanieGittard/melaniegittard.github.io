@@ -53,7 +53,7 @@ This paper was awarded the <a href="https://faere.fr/conference-faere-2021-prix-
     </details> 
 
 
- * __[Climate Resilient School Meals]([../files/Delavallade_Gittard_Vaillant2025.pdf](https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-11/RF%20Climate%20Resilient%20School%20Meals%20Report%20-%20Draft.pdf))__, (with Jennifer Burney, Rosamund Naylor, Nathalie Lambrecht, Siddharth Sachdeva and Eleanor Wiseman)
+ * __[Climate Resilient School Meals](https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-11/RF%20Climate%20Resilient%20School%20Meals%20Report%20-%20Draft.pdf)__, (with Jennifer Burney, Rosamund Naylor, Nathalie Lambrecht, Siddharth Sachdeva and Eleanor Wiseman)
 
  <details>
     <summary> Abstract: </summary>
