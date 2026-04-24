@@ -9,14 +9,20 @@ author_profile: true
 
 ## Working Papers
 
- * __[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/GITTARD_HU2024_WP.pdf)__, (with [Irène Hu](https://hu-irene.github.io/)) - *Under Review*
+* __[Mining Leaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_Gittard_2026.pdf)__  
+  (with [Irène Hu](https://hu-irene.github.io/))  
+  *Under review*
 
- <details>
-    <summary> Abstract: </summary>
-    <br>
-    <p align="justify"> We investigate the effects of industrial mining-induced water pollution on child mortality in Africa. We construct a novel dataset by retrieving opening dates for 2,016 industrial mines and combine them with health data from 26 African countries (1986–2018). Using a staggered difference-in-differences approach comparing downstream and upstream villages, we find a 25% increase in 24-month mortality downstream after mine opening, particularly among nonbreastfed children. Effects are stronger during mine operation, at high mineral prices, and in densely mined regions, and decrease with distance. We rule out alternative mechanisms including fertility, health access, in-migration, conflict, and income effects.
-       </p>
-    </details> 
+  <sub>Earlier version: [Working Paper (2024)](../files/GITTARD_HU2024_WP.pdf)</sub>
+
+<details>
+<summary>Abstract</summary>
+
+<p align="justify">
+We investigate the effects of industrial mining-induced water pollution on child mortality in Africa. We construct a novel dataset by retrieving opening dates for 2,016 industrial mines and combine them with health data from 26 African countries (1986–2018). Using a staggered difference-in-differences approach comparing downstream and upstream villages, we find a 25% increase in 24-month mortality downstream after mine opening, particularly among nonbreastfed children. Effects are stronger during mine operation, at high mineral prices, and in densely mined regions, and decrease with distance. We rule out alternative mechanisms including fertility, health access, in-migration, conflict, and income effects.
+</p>
+
+</details>
 
 
 
