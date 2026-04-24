@@ -10,8 +10,7 @@ author_profile: true
 ## Working Papers
 
 * __[Mining Leaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_Gittard_2026.pdf)__  
-  (with [Irène Hu](https://hu-irene.github.io/))  
-  *Under review*
+  (with [Irène Hu](https://hu-irene.github.io/))  -  *Under review*
 
   <sub>Earlier version: [Working Paper (2024)](../files/GITTARD_HU2024_WP.pdf)</sub>
 
