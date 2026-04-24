@@ -53,7 +53,7 @@ This paper was awarded the <a href="https://faere.fr/conference-faere-2021-prix-
     </details> 
 
 
- * __[Climate Resilient School Meals](https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-11/RF%20Climate%20Resilient%20School%20Meals%20Report%20-%20Draft.pdf)__, (with Jennifer Burney, Rosamund Naylor, Nathalie Lambrecht, Siddharth Sachdeva and Eleanor Wiseman)
+ * __[Climate Resilient School Meals](https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-11/RF%20Climate%20Resilient%20School%20Meals%20Report%20-%20Draft.pdf)__, (with Jennifer Burney, Rosamund Naylor, Nathalie Lambrecht, Siddharth Sachdeva and Eleanor Wiseman) - *Report*
 
  <details>
     <summary> Abstract: </summary>
@@ -65,11 +65,11 @@ This paper was awarded the <a href="https://faere.fr/conference-faere-2021-prix-
 
 ## Selected Work in progress
 
-* __Climate Migration and Urban Integration in Africa__,(with [Eleanor Wiseman](https://www.eleanorwiseman.com/)) - *WPaper coming soon !*
+* __Climate Migration and Urban Integration in Africa__,(with [Eleanor Wiseman](https://www.eleanorwiseman.com/)) - *Working Paper coming soon !*
 
-* __Climate Shocks, Food Security and Market Prices in Africa: the role of Supply Chains ?__,(with [Eleanor Wiseman](https://www.eleanorwiseman.com/))*WPaper coming soon !*
+* __Climate Shocks, Food Security and Market Prices in Africa: the role of Supply Chains ?__,(with [Eleanor Wiseman](https://www.eleanorwiseman.com/)) - *Working Paper coming soon !*
 
-* __Global Damage Functions__, (with Siddharth Sachdeva, Jennifer Burney and Pascal Polonik) *WPaper coming soon !*
+* __Global Damage Functions__, (with Siddharth Sachdeva, Jennifer Burney and Pascal Polonik)-  *Working Paper coming soon !*
 
 * __Industrial Mining and Migration__
 
