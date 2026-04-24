@@ -8,7 +8,6 @@ author_profile: true
 
 
 ## Working Papers
-
 * __[Mining Leaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_Gittard_2026.pdf)__  
   (with [Irène Hu](https://hu-irene.github.io/))  -  *Under review*
 
@@ -35,8 +34,9 @@ author_profile: true
 
   </details>
 
-
-This paper was awarded the <a href="https://faere.fr/conference-faere-2021-prix-faere-du-meilleur-article-de-jeunes-economistes/"> Special Mention at the FAERE 2021  </a> from the _French Association of Environmental and Resource Economists_  and the <a href="https://www.sisclima.it/conferenza-annuale-2020/"> Best Poster Award at the ClimRisk2020  </a>  from the _Italian Society for Climate Science_
+  <div style="margin-left: 2em; text-align: justify;">
+  This paper was awarded the <a href="https://faere.fr/conference-faere-2021-prix-faere-du-meilleur-article-de-jeunes-economistes/"> Special Mention at the FAERE 2021</a> from the <em>French Association of Environmental and Resource Economists</em> and the <a href="https://www.sisclima.it/conferenza-annuale-2020/"> Best Poster Award at the ClimRisk2020</a> from the <em>Italian Society for Climate Science</em>.
+  </div>
 
 
 * __[Impacts of repetitive droughts and the key role of experience : evidence from Nigeria](../files/GITTARD2024b_WP.pdf)__
