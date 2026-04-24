@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Papers
 
- * __[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/GITTARD_HU2024_WP.pdf)__, (with [Irène Hu](https://hu-irene.github.io/)) - *Submitted*
+ * __[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/GITTARD_HU2024_WP.pdf)__, (with [Irène Hu](https://hu-irene.github.io/)) - *Under Review*
 
  <details>
     <summary> Abstract: </summary>
@@ -43,7 +43,7 @@ This paper was awarded the <a href="https://faere.fr/conference-faere-2021-prix-
     </details> 
 
 
- * __[Women and Climate Adaptation in Rural Sub-Saharan Africa Constraints and Research Priorities](../files/Delavallade_Gittard_Vaillant2025.pdf)__, (with [Clara Delavallade](https://sites.google.com/site/claradelavallade/) and [Julia Vaillant](https://scholar.google.com/citations?user=UukWzp0AAAAJ&hl=fr) )
+ * __[Women and Climate Adaptation in Rural Sub-Saharan Africa Constraints and Research Priorities](../files/Delavallade_Gittard_Vaillant2025.pdf)__, (with [Clara Delavallade](https://sites.google.com/site/claradelavallade/) and [Julia Vaillant](https://scholar.google.com/citations?user=UukWzp0AAAAJ&hl=fr) )  - *R&R at World Development*
 
  <details>
     <summary> Abstract: </summary>
@@ -65,11 +65,11 @@ This paper was awarded the <a href="https://faere.fr/conference-faere-2021-prix-
 
 ## Selected Work in progress
 
-* __Climate Migration and Urban Integration in Africa__,(with [Eleanor Wiseman](https://www.eleanorwiseman.com/))
+* __Climate Migration and Urban Integration in Africa__,(with [Eleanor Wiseman](https://www.eleanorwiseman.com/)) - *WPaper coming soon !*
 
-* __Climate Shocks, Food Security and Market Prices in Africa: the role of Supply Chains ?__,(with [Eleanor Wiseman](https://www.eleanorwiseman.com/))
+* __Climate Shocks, Food Security and Market Prices in Africa: the role of Supply Chains ?__,(with [Eleanor Wiseman](https://www.eleanorwiseman.com/))*WPaper coming soon !*
 
-* __Global Damage Functions__, (with Siddharth Sachdeva, Jennifer Burney, Rosamund Naylor, Nathalie Lambrecht, and Eleanor Wiseman) 
+* __Global Damage Functions__, (with Siddharth Sachdeva, Jennifer Burney and Pascal Polonik) *WPaper coming soon !*
 
 * __Industrial Mining and Migration__
 
