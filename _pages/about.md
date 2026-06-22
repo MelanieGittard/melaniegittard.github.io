@@ -20,7 +20,7 @@ __Welcome to my website!__
 
 * You can find my __CV__ <a href="http://melaniegittard.github.io/files/CV_GITTARD.pdf">here</a>.
 
-## Recent and Upcoming Presentations
+<font color="#1E90FF"><strong>Recent and Upcoming Presentations</strong></font>
 
 **August 2026** 	EEA-ESEM 2026
 
