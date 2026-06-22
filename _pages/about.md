@@ -11,7 +11,7 @@ __Welcome to my website!__
 
 * I am a Postdoctoral Fellow at the <a href="https://fse.fsi.stanford.edu/">Center on Food Security and the Environment</a> at Stanford University.
 
-* I am an applied environmental and development economist. My research focuses on climate change, migration, food security, and environmental degradation in Sub-Saharan Africa.
+* I am an applied environmental and development economist.
 
 * My research examines how climate shocks affect migration, urbanization, agricultural production, and food security in Sub-Saharan Africa. Another strand of my work studies the consequences of industrial mining and water pollution on health outcomes (<a href="http://melaniegittard.github.io/files/MiningLeaks_Gittard_2026.pdf">MiningLeaks</a>).
 
@@ -19,15 +19,15 @@ __Welcome to my website!__
 
 * You can find my CV <a href="http://melaniegittard.github.io/files/CV_GITTARD.pdf">here</a>.
 
-<span style="color:#2E6F40;"><strong>Recent and Upcoming Presentations</strong></span>
+<span style="color:#2A6F97;"><strong>Recent and Upcoming Presentations</strong></span>
 
-**August 2026** &nbsp;&nbsp; -  EEA-ESEM 2026
+**Aug 2026** &nbsp;&nbsp; -  EEA-ESEM 2026
 
-**July 2026** &nbsp;&nbsp; - ICDE 2026
+**Jul 2026** &nbsp;&nbsp; - ICDE 2026
 
-**June 2026** &nbsp;&nbsp; - PSE Workshop on Natural Resources and Development
+**Jun 2026** &nbsp;&nbsp; - PSE Workshop on Natural Resources and Development
 
-**June 2026** &nbsp;&nbsp; -  NOVAFRICA Conference 2026, Lisbon
+**Jun 2026** &nbsp;&nbsp; -  NOVAFRICA Conference 2026, Lisbon
 
 **May 2026** &nbsp;&nbsp; - AMSE Workshop on Climate Change and Development, Marseille
 
