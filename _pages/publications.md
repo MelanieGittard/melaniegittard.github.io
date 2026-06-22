@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Papers
 * __[Mining Leaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_Gittard_2026.pdf)__  
-  (with [Irène Hu](https://hu-irene.github.io/))  -  *Under review*
+  (with [Irène Hu](https://hu-irene.github.io/))  -  *R&R at the Journal of Development Economics*
 
   <sub>Earlier version: [Working Paper (2024)](../files/GITTARD_HU2024_WP.pdf)</sub>
 
@@ -76,16 +76,13 @@ author_profile: true
 
 ## Selected Work in progress
 
-* __Climate Migration and Urban Integration in Africa__,(with [Eleanor Wiseman](https://www.eleanorwiseman.com/)) - *Working Paper coming soon !*
+* __Climate Migration and Urban Integration in Africa__, (with [Eleanor Wiseman](https://www.eleanorwiseman.com/)) - *Job Market Paper, draft coming soon!*
 
-* __Climate Shocks, Food Security and Market Prices in Africa: the role of Supply Chains ?__,(with [Eleanor Wiseman](https://www.eleanorwiseman.com/)) - *Working Paper coming soon !*
+* __Climate Shocks, Food Security and Market Prices in Africa: the Role of Supply Chains__, (with [Eleanor Wiseman](https://www.eleanorwiseman.com/)) - *Draft in preparation*
 
-* __Global Damage Functions__, (with Siddharth Sachdeva, Jennifer Burney and Pascal Polonik)-  *Working Paper coming soon !*
+* __Global Damage Functions__, (with Siddharth Sachdeva, Jennifer Burney and Pascal Polonik) - *Draft in preparation*
 
-* __Industrial Mining and Migration__
-
- 
-* __Irrigation adoption and efficiency facing droughts : agricultural productivity in South Africa ?__,(with Raja Chakir and Julien Wolfersberger) 
+* __Industrial Mining, Migration, and Rural Transformation in Africa__
 
 
 ## Publications in other fields
