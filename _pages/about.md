@@ -10,6 +10,8 @@ redirect_from:
 __Welcome to my website!__
 
 * I am a Postdoctoral Fellow at the <a href="https://fse.fsi.stanford.edu/">Center on Food Security and the Environment</a> at Stanford University.
+  
+* I am a Research Affiliate of the <a href="https://kingcenter.stanford.edu/people/melanie-gittard">King Center on Global Development</a> at Stanford University and the <a href="https://www.parisschoolofeconomics.eu/en/research/research-initiatives/research-chairs/international-migration-economics-chair/researchers-and-phd-students/">International Migration Economics Chair</a> at the Paris School of Economics.
 
 * I am an applied environmental and development economist.
 
@@ -17,8 +19,6 @@ __Welcome to my website!__
 
 * I completed my PhD at the <a href="https://www.parisschoolofeconomics.eu/en/">Paris School of Economics</a> and <a href="https://www.centre-cired.fr/en/">CIRED</a> in 2023.
   
-* I am a Research Affiliate of the <a href="https://kingcenter.stanford.edu/people/melanie-gittard">King Center on Global Development</a> at Stanford University and the <a href="https://www.parisschoolofeconomics.eu/en/research/research-initiatives/research-chairs/international-migration-economics-chair/researchers-and-phd-students/">International Migration Economics Chair</a> at the Paris School of Economics.
-
 * You can find my CV <a href="http://melaniegittard.github.io/files/CV_GITTARD.pdf">here</a>.
 
 <span style="color:#2A6F97;"><strong>Recent and Upcoming Presentations</strong></span>
