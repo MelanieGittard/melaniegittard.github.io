@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Full CV](https://melaniegittard.github.io/files/CV_GITTARD.pdf)
+[Full CV](https://melaniegittard.github.io/files/CV_GITTARD2026.pdf)
 ### Current position
 
 * 2024: Postdoctoral scholar, Stanford University - <a href="https://fse.fsi.stanford.edu/"><strong>Center on Food Security and the Environment</strong></a>
