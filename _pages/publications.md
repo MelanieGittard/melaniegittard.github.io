@@ -7,77 +7,28 @@ author_profile: true
 
 <h2 style="font-size:1.15em; margin-top:1.4em; margin-bottom:0.6em;">Job Market Paper</h2>
 
-[Climate Migration and Urban Integration in Africa](../files/Gittard_JMP2026.pdf) (with [Eleanor Wiseman](https://www.eleanorwiseman.com/))
-
-<details style="margin-top:0.15em; margin-bottom:0.8em;">
-<summary style="cursor:pointer;"><em>Job Market Paper</em> · Abstract</summary>
-
-<p style="text-align:justify; margin-top:0.6em;">
-Does climate-induced migration contribute to the growth of low-quality housing in African cities? We construct bilateral yearly migration flows between districts of eight African countries from harmonized census microdata (1987-2019) and instrument migration with drought intensity at origin, selected by post-IV LASSO among candidate climate variables. Drought-induced migration raises the inflow into low-quality housing: of every hundred migrants that drought pushes into a city, about twenty-three settle in low-quality housing. These migrants are also more housing-vulnerable than others: the marginal drought-induced migrant is about 3 percentage points more likely to live in low-quality housing than the average arrival. Yet they are not economically excluded, but absorbed into employment everywhere. The cost of climate migration is thus residential rather than occupational, and it concentrates in urbanizing cities rather than the largest metropolises. It also has an educational gradient: drought does not displace the least-educated adults, who remain trapped at origin, and among those it displaces, it is the less educated who are channeled into low-quality housing. Aggregating over our corridors, drought placed roughly 91,000 additional people in low-quality housing. These results shift the policy focus toward urban housing and toward the fast-urbanizing secondary cities where the pressure concentrates, through both greater absorption capacity and the targeting of the most vulnerable migrants.
-</p>
-
-</details>
+[Climate Migration and Urban Integration in Africa](../files/Gittard_JMP2026.pdf) (with [Eleanor Wiseman](https://www.eleanorwiseman.com/))  
+*Job Market Paper*
 
 
 <h2 style="font-size:1.15em; margin-top:1.4em; margin-bottom:0.6em;">Revise & Resubmit</h2>
 
-[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_Gittard_2026.pdf) (with [Irène Hu](https://hu-irene.github.io/))
+[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_Gittard_2026.pdf) (with [Irène Hu](https://hu-irene.github.io/))  
+*Revise & Resubmit, Journal of Development Economics*
 
-<details style="margin-top:0.15em; margin-bottom:0.8em;">
-<summary style="cursor:pointer;"><em>Revise & Resubmit, Journal of Development Economics</em> · Abstract</summary>
-
-<p style="text-align:justify; margin-top:0.6em;">
-We investigate the effects of industrial mining-induced water pollution on child mortality in Africa. We construct a novel dataset by retrieving opening dates for 2,016 industrial mines and combine them with health data from 26 African countries (1986–2018). Using a staggered difference-in-differences approach comparing downstream and upstream villages, we find a 25% increase in 24-month mortality downstream after mine opening, particularly among nonbreastfed children. Effects are stronger during mine operation, at high mineral prices, and in densely mined regions, and decrease with distance. We rule out alternative mechanisms including fertility, health access, in-migration, conflict, and income effects.
-</p>
-
-</details>
-
-[Women and Climate Adaptation in Rural Sub-Saharan Africa: Constraints and Research Priorities](../files/Delavallade_Gittard_Vaillant2025.pdf) (with [Clara Delavallade](https://sites.google.com/site/claradelavallade/) and [Julia Vaillant](https://scholar.google.com/citations?user=UukWzp0AAAAJ&hl=fr))
-
-<details style="margin-top:0.15em; margin-bottom:0.8em;">
-<summary style="cursor:pointer;"><em>Revise & Resubmit, World Development</em> · Abstract</summary>
-
-<p style="text-align:justify; margin-top:0.6em;">
-Sub-Saharan Africa is highly vulnerable to climate change, with rural women disproportionately affected due to pre-existing gender inequalities that both increase their need for adaptation and constrain their ability to adopt strategies. This paper reviews empirical evidence on key barriers to women’s climate adaptation, identifies critical knowledge gaps, and outlines a gender-informed policy and research agenda. Focusing on on-farm and off-farm adaptation strategies --- including climate-smart agriculture, weather insurance, income diversification, and migration --- the paper highlights key constraints limiting women's adaptive capacity: financial limitations, restricted asset control and ownership, gender norms positioning women as primary caregivers and shock absorbers, lower human and social capital, and limited access to climate and technology information. Substantial gaps remain in understanding how women’s financial literacy, institutional trust, risk and climate perception, and social networks affect their adaptation. Evidence-supported interventions include information provision on climate-smart agricultural technologies and social protection, while emerging but less established interventions include socio-emotional skills programs, childcare, and land titling. Underexplored yet promising interventions involve expanding women’s access to digital climate services, strengthening social networks, and engaging men in shifting intra-household roles. Significant knowledge gaps persist regarding the main constraints women face in adopting migration as an adaptation strategy.
-</p>
-
-</details>
+[Women and Climate Adaptation in Rural Sub-Saharan Africa: Constraints and Research Priorities](../files/Delavallade_Gittard_Vaillant2025.pdf) (with [Clara Delavallade](https://sites.google.com/site/claradelavallade/) and [Julia Vaillant](https://scholar.google.com/citations?user=UukWzp0AAAAJ&hl=fr))  
+*Revise & Resubmit, World Development*
 
 
 <h2 style="font-size:1.15em; margin-top:1.4em; margin-bottom:0.6em;">Working Papers</h2>
 
-[Droughts, Migration and Population in Kenya](../files/GITTARD2024a_WP.pdf)
-
-<details style="margin-top:0.15em; margin-bottom:0.8em;">
-<summary style="cursor:pointer;"><em>Special Mention, FAERE 2021 · Best Poster Award, ClimRisk2020</em> · Abstract</summary>
-
-<p style="text-align:justify; margin-top:0.6em;">
-Since 2000, Kenya has experienced an increase in the frequency of droughts, significantly affecting agriculture and driving labor force migration. This paper investigates strategic migration patterns among farmers and pastoralists in response to repetitive droughts. I use fine-grained data that enables the capture of short-distance migration and heterogeneity, combining satellite-based data on daily rainfalls (CHIRPS) with exhaustive censuses from 1989,1999, and 2009. I use a two-way fixed-effect model to exploit the spatial variation in drought frequency across 2,518 sub-locations, comparing their demographic growth according to the number of dry-rainy seasons over each decade. First, I show that increased drought frequency triggers out-migration, as one additional drought decreases demographic growth by 1.7 p.p, equivalent to a 1% population decline. This result is consistent within the [15; 65] age group, excluding other demographic effects and confirming migration as the driving factor. The main contribution of this paper is the identification of different migration strategies across livelihoods. Rural areas dominated by pastoral activities experience significant out-migration, leading to a rural-rural shift from pastoral to agriculture-oriented regions. Herders’ migration displays little heterogeneity, suggesting the migration of entire households and consistent with migration as a last resort. Agricultural rural areas are less vulnerable to drought and display significant heterogeneity. The results show the migration of the most educated individuals in the working age, while uneducated individuals are trapped in affected areas. This paper highlights the importance of using detailed data to understand diverse migration strategies, thereby facilitating the implementation of effective policies.
-</p>
-
-</details>
+[Droughts, Migration and Population in Kenya](../files/GITTARD2024a_WP.pdf)  
+*Special Mention, FAERE 2021 · Best Poster Award, ClimRisk2020*
 
 [Impacts of Repetitive Droughts and the Key Role of Experience: Evidence from Nigeria](../files/GITTARD2024b_WP.pdf)
 
-<details style="margin-top:0.15em; margin-bottom:0.8em;">
-<summary style="cursor:pointer;">Abstract</summary>
-
-<p style="text-align:justify; margin-top:0.6em;">
-Western African Sahel faced severe droughts in the 1980s, affecting agricultural production and food security. In recent decades, farmers have faced uncertainty in the timing and amount of rainy seasons and are confronted with erratic rainfall with high interannual variations. Can the experience of past dry events reduce the vulnerability of households to short-term rainfall shocks? In this paper, I match three waves of panel household surveys focusing on agriculture in Nigeria (GHS, from 2010-2016) and high temporal resolution precipitation data set from the Climate Hazard Center (CHIRPS). I show evidence of the extreme importance of the long-dry period of the 1980s and identify more recent droughts in 2013/2015, which are in line with a change in the characteristics of the rainfall trends. Through a two-way-fixed effect strategy, I exploit the spatial variation of the exposition to the 2015 drought. First, I look at the short-term effects of being hit by a drought on agricultural production and food security indicators. I show that being hit by a drought decreases yields by 14%, and decreases the food diversity of households by around 1%. Second, I look at the impacts’ heterogeneity according to the plot’s experience, using the timing of the year of acquisition of the plot. I compare short-term droughts’ effects on households that acquired their first plot before the 1980s dry period to those that acquired it after. Results suggest that acquiring the land before 1985 attenuates the harmful effects of a climate shock, as these particular households have only a 3% reduction in their yields due to the 2015 drought. This is especially the case when households were severely hit in the 1980s. This result is only descriptive and can not lead to any causal interpretation. It might suggest that having a long-lasting experience under extreme dry events on cultivated land reduces vulnerability to rainfall variability.
-</p>
-
-</details>
-
-[Climate Resilient School Meals](https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-11/RF%20Climate%20Resilient%20School%20Meals%20Report%20-%20Draft.pdf) (with Jennifer Burney, Rosamond Naylor, Nathalie Lambrecht, Siddharth Sachdeva and Eleanor Wiseman)
-
-<details style="margin-top:0.15em; margin-bottom:0.8em;">
-<summary style="cursor:pointer;"><em>FSE Working Paper</em> · Abstract</summary>
-
-<p style="text-align:justify; margin-top:0.6em;">
-School feeding programs are an increasingly important and cost-effective nutritional backstop in a majority of countries, but the climate resilience of this social safety net is not well-characterized. In particular, status quo procurement policies, including food purchased via international markets or acquired through bilateral trade or aid agreements, may be inadvertently exposing school feeding programs and the children that depend on them to climate risk (domestically or abroad), associated price volatility, and larger-scale regional shocks that could collapse programs. Here we present the first systematic empirical study of climate risk to school feeding programs, taking into account the composition of school meals, where procured food is grown, and how it is produced and acquired. This analysis provides both baseline vulnerability assessments for individual school feeding programs and larger-scale characterization of risk and opportunity in the school meals social safety net as a whole. Through simple scenario analyses and case studies, we also explore opportunities for resilience through procurement policies, including requiring more climate-resilient methods of food production (i.e., regenerative agriculture) and options for purchasing domestic versus internationally traded products.
-</p>
-
-</details>
+[Climate Resilient School Meals](https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-11/RF%20Climate%20Resilient%20School%20Meals%20Report%20-%20Draft.pdf) (with Jennifer Burney, Rosamond Naylor, Nathalie Lambrecht, Siddharth Sachdeva and Eleanor Wiseman)  
+*FSE Working Paper*
 
 
 <h2 style="font-size:1.15em; margin-top:1.4em; margin-bottom:0.6em;">Work in Progress</h2>
