@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
-## Teaching experience:
 
-* __Summer 2025__: MUIR Mentorship Program, Stanford University
+## Teaching Experience
 
-* __Fall 2021__: Teaching Assistant (ATER) in Macroeconomics, Université Paris 1 Panthéon-Sorbonne, Undergraduate students
+* Summer 2025 & Summer 2026: MUIR Mentorship Program, Stanford University
 
-* __Fall 2018, Fall 2019, Fall 2020, Fall 2021__ : Teaching Assistant in Applied Mathematics and Algebra, Université Paris 1 Panthéon-Sorbonne, Undergraduate students
+* Fall 2021: Teaching Assistant (ATER) in Macroeconomics, Université Paris 1 Panthéon-Sorbonne, Undergraduate students
+
+* Fall 2018, Fall 2019, Fall 2020 & Fall 2021: Teaching Assistant in Applied Mathematics and Algebra, Université Paris 1 Panthéon-Sorbonne, Undergraduate students
