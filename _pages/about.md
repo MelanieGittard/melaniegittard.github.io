@@ -9,19 +9,20 @@ redirect_from:
 
 __Welcome to my website!__
 
-* I am a Postdoctoral Fellow at the <a href="https://fse.fsi.stanford.edu/">Center on Food Security and the Environment</a> at Stanford University.
+* I am an applied environmental and development economist and a Postdoctoral Fellow at the <a href="https://fse.fsi.stanford.edu/">Center on Food Security and the Environment</a> at Stanford University.
   
+*  I am on the 2026–2027 academic job market. My Job Market Paper is <a href="https://melaniegittard.github.io/files/Gittard_JMP2026.pdf">Climate Migration and Urban Integration in Africa</a>.
+
 * I am a Research Affiliate of the <a href="https://kingcenter.stanford.edu/people/melanie-gittard">King Center on Global Development</a> at Stanford University and the <a href="https://www.parisschoolofeconomics.eu/en/research/research-initiatives/research-chairs/international-migration-economics-chair/researchers-and-phd-students/">International Migration Economics Chair</a> at the Paris School of Economics.
 
-* I am an applied environmental and development economist.
 
-* My research examines how climate shocks affect migration, urbanization, agricultural production, and food security in Sub-Saharan Africa. Another strand of my work studies the consequences of industrial mining and water pollution on health outcomes (<a href="http://melaniegittard.github.io/files/MiningLeaks_Gittard_2026.pdf">MiningLeaks</a>).
+* My research examines how households and communities respond to environmental change in Sub-Saharan Africa. I study how climate shocks shape migration, urbanization, agricultural production, and food security, and how environmental degradation, including water pollution from industrial mining, affects health outcomes (<a href="https://melaniegittard.github.io/files/MiningLeaks_Gittard_2026.pdf">MiningLeaks</a>).
 
 * I completed my PhD at the <a href="https://www.parisschoolofeconomics.eu/en/">Paris School of Economics</a> and <a href="https://www.centre-cired.fr/en/">CIRED</a> in 2023.
   
-* You can find my CV <a href="http://melaniegittard.github.io/files/CV_GITTARD.pdf">here</a>.
+* You can find my CV <a href="http://melaniegittard.github.io/files/CV_GITTARD2026.pdf">here</a>.
 
-<span style="color:#2A6F97;"><strong>Recent and Upcoming Presentations</strong></span>
+<span style="color:#8C1515;"><strong>Recent and Upcoming Presentations</strong></span>
 
 
 **Sep 2026** &nbsp;&nbsp; -   North American Meeting of the Urban Economics Association 2026
