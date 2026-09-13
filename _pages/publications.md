@@ -7,19 +7,23 @@ author_profile: true
 
 ## Job Market Paper
 
-### [Climate Migration and Urban Integration in Africa](../files/Gittard_JMP2026.pdf)
-with [Eleanor Wiseman](https://www.eleanorwiseman.com/)
+[Climate Migration and Urban Integration in Africa](../files/Gittard_JMP2026.pdf) (with [Eleanor Wiseman](https://www.eleanorwiseman.com/))  
+*Job Market Paper* · [Paper](../files/Gittard_JMP2026.pdf)
 
-*Job Market Paper*
+<details>
+<summary>Abstract</summary>
 
----
+<div style="text-align: justify;">
+Does climate-induced migration contribute to the growth of low-quality housing in African cities? We construct bilateral yearly migration flows between districts of eight African countries from harmonized census microdata (1987-2019) and instrument migration with drought intensity at origin, selected by post-IV LASSO among candidate climate variables. Drought-induced migration raises the inflow into low-quality housing: of every hundred migrants that drought pushes into a city, about twenty-three settle in low-quality housing. These migrants are also more housing-vulnerable than others: the marginal drought-induced migrant is about 3 percentage points more likely to live in low-quality housing than the average arrival. Yet they are not economically excluded, but absorbed into employment everywhere. The cost of climate migration is thus residential rather than occupational, and it concentrates in urbanizing cities rather than the largest metropolises. It also has an educational gradient: drought does not displace the least-educated adults, who remain trapped at origin, and among those it displaces, it is the less educated who are channeled into low-quality housing. Aggregating over our corridors, drought placed roughly 91,000 additional people in low-quality housing. These results shift the policy focus toward urban housing and toward the fast-urbanizing secondary cities where the pressure concentrates, through both greater absorption capacity and the targeting of the most vulnerable migrants.
+</div>
+
+</details>
+
 
 ## Revise & Resubmit
 
-### [MiningLeaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_Gittard_2026.pdf)
-with [Irène Hu](https://hu-irene.github.io/)
-
-*Revise & Resubmit, Journal of Development Economics*
+[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_Gittard_2026.pdf) (with [Irène Hu](https://hu-irene.github.io/))  
+*Revise & Resubmit, Journal of Development Economics* · [Paper](../files/MiningLeaks_Gittard_2026.pdf)
 
 <details>
 <summary>Abstract</summary>
@@ -30,10 +34,8 @@ We investigate the effects of industrial mining-induced water pollution on child
 
 </details>
 
-### [Women and Climate Adaptation in Rural Sub-Saharan Africa: Constraints and Research Priorities](../files/Delavallade_Gittard_Vaillant2025.pdf)
-with [Clara Delavallade](https://sites.google.com/site/claradelavallade/) and [Julia Vaillant](https://scholar.google.com/citations?user=UukWzp0AAAAJ&hl=fr)
-
-*Revise & Resubmit, World Development*
+[Women and Climate Adaptation in Rural Sub-Saharan Africa: Constraints and Research Priorities](../files/Delavallade_Gittard_Vaillant2025.pdf) (with [Clara Delavallade](https://sites.google.com/site/claradelavallade/) and [Julia Vaillant](https://scholar.google.com/citations?user=UukWzp0AAAAJ&hl=fr))  
+*Revise & Resubmit, World Development* · [Paper](../files/Delavallade_Gittard_Vaillant2025.pdf)
 
 <details>
 <summary>Abstract</summary>
@@ -44,11 +46,11 @@ Sub-Saharan Africa is highly vulnerable to climate change, with rural women disp
 
 </details>
 
----
 
 ## Working Papers
 
-### [Droughts, Migration and Population in Kenya](../files/GITTARD2024a_WP.pdf)
+[Droughts, Migration and Population in Kenya](../files/GITTARD2024a_WP.pdf)  
+[Paper](../files/GITTARD2024a_WP.pdf) · *Special Mention, FAERE 2021 · Best Poster Award, ClimRisk2020*
 
 <details>
 <summary>Abstract</summary>
@@ -59,11 +61,8 @@ Since 2000, Kenya has experienced an increase in the frequency of droughts, sign
 
 </details>
 
-<div style="margin-left: 2em; text-align: justify;">
-This paper was awarded the <a href="https://faere.fr/conference-faere-2021-prix-faere-du-meilleur-article-de-jeunes-economistes/">Special Mention at the FAERE 2021</a> from the <em>French Association of Environmental and Resource Economists</em> and the <a href="https://www.sisclima.it/conferenza-annuale-2020/">Best Poster Award at ClimRisk2020</a> from the <em>Italian Society for Climate Science</em>.
-</div>
-
-### [Impacts of Repetitive Droughts and the Key Role of Experience: Evidence from Nigeria](../files/GITTARD2024b_WP.pdf)
+[Impacts of Repetitive Droughts and the Key Role of Experience: Evidence from Nigeria](../files/GITTARD2024b_WP.pdf)  
+[Paper](../files/GITTARD2024b_WP.pdf)
 
 <details>
 <summary>Abstract</summary>
@@ -74,10 +73,8 @@ Western African Sahel faced severe droughts in the 1980s, affecting agricultural
 
 </details>
 
-### [Climate Resilient School Meals](https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-11/RF%20Climate%20Resilient%20School%20Meals%20Report%20-%20Draft.pdf)
-with Jennifer Burney, Rosamond Naylor, Nathalie Lambrecht, Siddharth Sachdeva and Eleanor Wiseman
-
-*FSE Working Paper*
+[Climate Resilient School Meals](https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-11/RF%20Climate%20Resilient%20School%20Meals%20Report%20-%20Draft.pdf) (with Jennifer Burney, Rosamond Naylor, Nathalie Lambrecht, Siddharth Sachdeva and Eleanor Wiseman)  
+*FSE Working Paper* · [Paper](https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-11/RF%20Climate%20Resilient%20School%20Meals%20Report%20-%20Draft.pdf)
 
 <details>
 <summary>Abstract</summary>
@@ -88,35 +85,25 @@ School feeding programs are an increasingly important and cost-effective nutriti
 
 </details>
 
----
 
 ## Work in Progress
 
-### Climate Shocks, Food Security and Market Prices in Africa: The Role of Supply Chains
-with [Eleanor Wiseman](https://www.eleanorwiseman.com/)
+Climate Shocks, Food Security and Market Prices in Africa: The Role of Supply Chains (with [Eleanor Wiseman](https://www.eleanorwiseman.com/))
 
-### Climate and the Global Food Supply
-with Jennifer Burney, Nathalie Lambrecht, Rosamond Naylor, Siddharth Sachdeva, Eleanor Wiseman and Pascal Polonik
+Climate and the Global Food Supply (with Jennifer Burney, Nathalie Lambrecht, Rosamond Naylor, Siddharth Sachdeva, Eleanor Wiseman and Pascal Polonik)
 
-### Do Buildings Save Lives? Evaluating the Health Benefits of France’s Residential Energy Efficiency Programs During Extreme Heat Events
-with Marshall Burke, Andrew Wilson and Christopher Callahan
+Do Buildings Save Lives? Evaluating the Health Benefits of France’s Residential Energy Efficiency Programs During Extreme Heat Events (with Marshall Burke, Andrew Wilson and Christopher Callahan)
 
-### Industrial Mining, Migration, and Rural Transformation in Africa
+Industrial Mining, Migration, and Rural Transformation in Africa
 
----
 
 ## Publications in Other Fields
 
-### [Analysis of Psychiatric Disorders by Age Among Children Following a Mass Terrorist Attack in Nice, France, on Bastille Day, 2016](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800940)
-with Florence Askenazy, Nicolas Bodeau, Ophélie Nachon, Michèle Battista, Arnaud Fernandez and Morgane Gindt
+[Analysis of Psychiatric Disorders by Age Among Children Following a Mass Terrorist Attack in Nice, France, on Bastille Day, 2016](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800940) (with Florence Askenazy, Nicolas Bodeau, Ophélie Nachon, Michèle Battista, Arnaud Fernandez and Morgane Gindt)  
+*JAMA Network Open, Vol. 6, No. 2, February 2023* · [Article](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800940)
 
-*JAMA Network Open, Vol. 6, No. 2, February 2023*
-
----
 
 ## Pre-doctoral Publications
 
-### [Climate Change and Migrations: Remittances as a Buffer?](https://www.cairn.info/revue-mondes-en-developpement-2017-3-page-85.htm)
-with Olivier Damette
-
-*Mondes en Développement, No. 179, March 2017*
+[Climate Change and Migrations: Remittances as a Buffer?](https://www.cairn.info/revue-mondes-en-developpement-2017-3-page-85.htm) (with Olivier Damette)  
+*Mondes en Développement, No. 179, March 2017* · [Article](https://www.cairn.info/revue-mondes-en-developpement-2017-3-page-85.htm)
