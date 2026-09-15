@@ -16,19 +16,16 @@ author_profile: true
 
 
 
-[Women and Climate Adaptation in Rural Sub-Saharan Africa: Constraints and Research Priorities](../files/Delavallade_Gittard_Vaillant2025.pdf) (with [Clara Delavallade](https://sites.google.com/site/claradelavallade/) and [Julia Vaillant](https://scholar.google.com/citations?user=UukWzp0AAAAJ&hl=fr))  
-*Revise & Resubmit, World Development*
+[Women and Climate Adaptation in Rural Sub-Saharan Africa: Constraints and Research Priorities](../files/Delavallade_Gittard_Vaillant2025.pdf) (with [Clara Delavallade](https://sites.google.com/site/claradelavallade/) and [Julia Vaillant](https://scholar.google.com/citations?user=UukWzp0AAAAJ&hl=fr)) - *Revise & Resubmit, World Development*
 
 
 <h2 style="font-size:1.15em; margin-top:1.4em; margin-bottom:0.6em;">Working Papers</h2>
 
-[Droughts, Migration and Population in Kenya](../files/GITTARD2024a_WP.pdf)  
-*Special Mention, FAERE 2021 · Best Poster Award, ClimRisk2020*
+[Droughts, Migration and Population in Kenya](../files/GITTARD2024a_WP.pdf) - *PSE Working Paper*, *Special Mention, FAERE 2021 · Best Poster Award, ClimRisk2020*
 
-[Impacts of Repetitive Droughts and the Key Role of Experience: Evidence from Nigeria](../files/GITTARD2024b_WP.pdf)
+[Impacts of Repetitive Droughts and the Key Role of Experience: Evidence from Nigeria](../files/GITTARD2024b_WP.pdf) - *PSE Working Paper*
 
-[Climate Resilient School Meals](https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-11/RF%20Climate%20Resilient%20School%20Meals%20Report%20-%20Draft.pdf) (with Jennifer Burney, Rosamond Naylor, Nathalie Lambrecht, Siddharth Sachdeva and Eleanor Wiseman)  
-*FSE Working Paper*
+[Climate Resilient School Meals](https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-11/RF%20Climate%20Resilient%20School%20Meals%20Report%20-%20Draft.pdf) (with Jennifer Burney, Rosamond Naylor, Nathalie Lambrecht, Siddharth Sachdeva and Eleanor Wiseman) - *FSE Working Paper*
 
 
 <h2 style="font-size:1.15em; margin-top:1.4em; margin-bottom:0.6em;">Work in Progress</h2>
