@@ -90,3 +90,57 @@
     margin-left: 0;
   }
 }
+
+
+/* Compact expandable paper details */
+.paper-details {
+  margin-top: 0.3em;
+  margin-bottom: 0.8em;
+}
+
+.paper-details summary {
+  color: #40566B;
+  cursor: pointer;
+  font-size: 0.9em;
+  font-weight: 400 !important;
+}
+
+.paper-details[open] summary {
+  margin-bottom: 0.8em;
+}
+
+.paper-details-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(260px, 0.95fr);
+  gap: 1.4em;
+  align-items: start;
+}
+
+.paper-abstract p {
+  margin-top: 0;
+  font-size: 0.9em;
+  line-height: 1.55;
+}
+
+.paper-figure {
+  margin: 0;
+}
+
+.paper-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.paper-figure figcaption {
+  margin-top: 0.4em;
+  color: #666;
+  font-size: 0.75em;
+  line-height: 1.35;
+}
+
+@media (max-width: 767px) {
+  .paper-details-grid {
+    grid-template-columns: 1fr;
+  }
+}
