@@ -20,4 +20,4 @@ Development in Africa, CFE-CMStatistics 2024 Kings College London, CERDI externa
 
 * <span style="color:#8C1515; font-weight:400;">2021:</span>  EAERE - 26th Annual Conference of the European Association of Environmental and Resource Economists, EEA-ENSEM - European Economic Association, FAERE - 8th Annual Conference of the  French Association of Environmental Economists, AFSE - The 69th Congress of the French Economic Association, NCDE - 19th Nordic Conference in Development Economics, ICDE -  International Conference in Development Economics, JMA - 37th days of applied micro-economics, CSAE - Conference Economic Development in Africa,  CFDS - Casual Friday Development Seminar of PSE,  Internal seminar of Economic History PSE
 
-* __2020__ : ClimRisk2020 - SISC Eighth Annual Conference (Italian Society of Climate Sciences),  CIRED-PhD Student seminar (online/Paris), CFDS - Casual Friday Development Seminar of PSE
+* <span style="color:#8C1515; font-weight:400;">2020:</span> ClimRisk2020 - SISC Eighth Annual Conference (Italian Society of Climate Sciences),  CIRED-PhD Student seminar (online/Paris), CFDS - Casual Friday Development Seminar of PSE
