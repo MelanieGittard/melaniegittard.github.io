@@ -15,6 +15,27 @@ author_profile: true
 
 [MiningLeaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_Gittard_2026.pdf) (with [Irène Hu](https://hu-irene.github.io/))  - *Revise & Resubmit, Journal of Development Economics* · [PSE Working Paper No. 2024-24](https://www.parisschoolofeconomics.eu/en/publications-hal/miningleaks-water-pollution-and-child-mortality-in-africa/)
 
+<details class="paper-details">
+  <summary>Abstract and figure</summary>
+
+  <div class="paper-details-grid">
+    <div class="paper-abstract">
+      <p>
+        In the midst of Africa's mining boom, communities downstream from industrial mines face increased exposure to toxic waste, yet the causal impact of mining-induced water pollution on local health remains unquantified at the continental scale. We construct a novel dataset of opening dates for 2,016 industrial mines and combine it with child health outcomes from the Demographic and Health Surveys spanning 1986 to 2018 across 26 African countries. Using a staggered difference-in-differences design comparing villages located downstream and upstream—based on hydrological networks—of mines before and after their opening, we find a 25% increase in 24-month mortality downstream after mine opening, relative to upstream areas where mortality rates remain stable. The effect is concentrated among children who were no longer breastfed after six months, consistent with the protective role of breastfeeding against heavy metal ingestion through contaminated water and with exposure to heavy metals rather than microbial contamination. Effects are stronger during active mine operation, at high international mineral prices, and in densely mined regions, and decrease with distance from the mine, consistent with higher mining intensity generating higher pollution levels. We rule out alternative mechanisms including changes in fertility behaviors, access to healthcare, in-migration, conflict, and income effects. These findings underscore the significant local health impacts of industrial mining and highlight the need for stronger environmental regulation and water quality monitoring in resource-rich developing countries.
+      </p>
+    </div>
+
+    <figure class="paper-figure">
+      <a href="/images/figure_miningleaks.png" target="_blank" rel="noopener">
+        <img src="/images/figure_miningleaks.png"
+             alt="Industrial mines, hydrological identification strategy, and effects on child mortality in Africa">
+      </a>
+      <figcaption>
+        Industrial mines, hydrological identification strategy, and estimated effects of downstream exposure on child mortality across Africa. Click to enlarge.
+      </figcaption>
+    </figure>
+  </div>
+</details>
 
 
 [Women and Climate Adaptation in Rural Sub-Saharan Africa: Constraints and Research Priorities](../files/Delavallade_Gittard_Vaillant2026.pdf) (with [Clara Delavallade](https://sites.google.com/site/claradelavallade/) and [Julia Vaillant](https://scholar.google.com/citations?user=UukWzp0AAAAJ&hl=fr))  *Revise & Resubmit, World Development* · [World Bank Policy Research Working Paper No. 11095](https://openknowledge.worldbank.org/entities/publication/eefc27a2-cd54-44bb-a9b3-256efa73786f)
