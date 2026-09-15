@@ -22,8 +22,10 @@ author_profile: true
 
 <h2 style="font-size:1.15em; font-weight:400; color:#557B7C; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid rgba(140,21,21,0.22);">Working Papers</h2>
 
-[Droughts, Migration and Population in Kenya](../files/GITTARD2024a_WP.pdf) - *PSE Working Paper*, *Special Mention, FAERE 2021 · Best Poster Award, ClimRisk2020*  <details class="paper-details">
-  <summary>Abstract and figures</summary>
+[Droughts, Migration and Population in Kenya](../files/GITTARD2024a_WP.pdf) — *PSE Working Paper* · *Special Mention, FAERE 2021 · Best Poster Award, ClimRisk2020*
+
+<details class="paper-details">
+  <summary>Abstract and figure</summary>
 
   <div class="paper-details-grid">
     <div class="paper-abstract">
