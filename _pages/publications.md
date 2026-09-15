@@ -7,14 +7,12 @@ author_profile: true
 
 <h2 style="font-size:1.15em; font-weight:400; color:#8C1515; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid #e5e5e5;">Job Market Paper</h2>
 
-[Climate Migration and Urban Integration in Africa](../files/Gittard_JMP2026.pdf) (with [Eleanor Wiseman](https://www.eleanorwiseman.com/))  
-*Job Market Paper*
+[Climate Migration and Urban Integration in Africa](../files/Gittard_JMP2026.pdf) (with [Eleanor Wiseman](https://www.eleanorwiseman.com/)) - *Job Market Paper*
 
 
 <h2 style="font-size:1.15em; margin-top:1.4em; margin-bottom:0.6em;">Revise & Resubmit</h2>
 
-[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_Gittard_2026.pdf) (with [Irène Hu](https://hu-irene.github.io/))  
-*Revise & Resubmit, Journal of Development Economics* · [PSE Working Paper No. 2024-24](https://www.parisschoolofeconomics.eu/en/publications-hal/miningleaks-water-pollution-and-child-mortality-in-africa/)
+[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_Gittard_2026.pdf) (with [Irène Hu](https://hu-irene.github.io/))  - *Revise & Resubmit, Journal of Development Economics* · [PSE Working Paper No. 2024-24](https://www.parisschoolofeconomics.eu/en/publications-hal/miningleaks-water-pollution-and-child-mortality-in-africa/)
 
 
 
