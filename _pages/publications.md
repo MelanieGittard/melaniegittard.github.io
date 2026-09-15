@@ -73,9 +73,9 @@ author_profile: true
 
 <h2 style="font-size:1.15em; font-weight:400; color:#557B7C; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid rgba(140,21,21,0.22);">Work in Progress</h2>
 
-Climate Shocks, Food Security and Market Prices in Africa: The Role of Supply Chains (with [Eleanor Wiseman](https://www.eleanorwiseman.com/))
+Climate Shocks, Food Security and Market Prices in Africa: The Role of Supply Chains (with [Eleanor Wiseman](https://www.eleanorwiseman.com/)) - *New draft coming soon!*
 
-Climate and the Global Food Supply (with Jennifer Burney, Nathalie Lambrecht, Rosamond Naylor, Siddharth Sachdeva, Eleanor Wiseman and Pascal Polonik)
+Climate and the Global Food Supply (with Jennifer Burney, Nathalie Lambrecht, Rosamond Naylor, Siddharth Sachdeva, Eleanor Wiseman and Pascal Polonik) - *New draft coming soon!*
 
 Do Buildings Save Lives? Evaluating the Health Benefits of France’s Residential Energy Efficiency Programs During Extreme Heat Events (with Marshall Burke, Andrew Wilson and Christopher Callahan)
 
