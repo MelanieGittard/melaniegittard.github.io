@@ -39,3 +39,11 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Larger profile photo on desktop */
+@media (min-width: 1024px) {
+  .author__avatar img {
+    max-width: 230px !important;
+    width: 230px !important;
+  }
+}
