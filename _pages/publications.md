@@ -44,7 +44,7 @@ Industrial Mining, Migration, and Rural Transformation in Africa
 *JAMA Network Open, Vol. 6, No. 2, February 2023*
 
 
-<h2 style="font-size:1.15em; margin-top:1.4em; margin-bottom:0.6em;">Pre-doctoral Publications</h2>
+<h2 style="font-size:1.15em; font-weight:400; color:#40566B; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid rgba(140,21,21,0.22);">Pre-doctoral Publications</h2>
 
 [Climate Change and Migrations: Remittances as a Buffer?](https://www.cairn.info/revue-mondes-en-developpement-2017-3-page-85.htm) (with Olivier Damette)  
 *Mondes en Développement, No. 179, March 2017*
