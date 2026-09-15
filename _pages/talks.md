@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-<h2 style="font-size:1.15em; font-weight:400; color:#40566B; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid rgba(140,21,21,0.22);">Conferences and Seminars</h2>
+<h2 style="font-size:1.15em; font-weight:400; color:#557B7C; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid rgba(140,21,21,0.22);">Conferences and Seminars</h2>
 
 * <span style="color:#8C1515; font-weight:400;">2026:</span> UEA 2026 Chicago, AMSE Invited Seminar, EEA-ESEM 2026, NOVAFRICA Conference 2026, Midwest Economics Association Annual Meeting (University of Wisconsin–Madison), Paris School of Economics Workshop on Natural Resources and Development, AMSE Workshop on Climate Change and Development, ICDE - International Conference in Development Economics
 
