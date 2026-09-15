@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-<h2 style="font-size:1.15em; font-weight:400; color:#40566B; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid rgba(140,21,21,0.22);">Teaching Experience</h2>
+<h2 style="font-size:1.15em; font-weight:400; color:#557B7C; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid rgba(140,21,21,0.22);">Teaching Experience</h2>
 
 * Summer 2025 & Summer 2026: MUIR Mentorship Program, Stanford University
 
