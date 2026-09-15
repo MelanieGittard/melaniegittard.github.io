@@ -83,7 +83,7 @@
 
 @media (min-width: 1024px) {
   .greedy-nav .visible-links .masthead__menu-item--lg {
-    width: 285px !important;
+    width: 275px !important;
     padding-right: 0;
   }
 
@@ -101,7 +101,7 @@
 }
 
 .paper-details summary {
-  color: #40566B;
+  color: #557B7C;
   cursor: pointer;
   font-size: 0.9em;
   font-weight: 400 !important;
@@ -109,6 +109,10 @@
 
 .paper-details[open] summary {
   margin-bottom: 0.8em;
+}
+
+.paper-details:not([open]) > .paper-details-grid {
+  display: none !important;
 }
 
 .paper-details-grid {
@@ -120,8 +124,8 @@
 
 .paper-abstract p {
   margin-top: 0;
-  font-size: 0.9em;
-  line-height: 1.55;
+  font-size: 0.82em;
+  line-height: 1.45;
 }
 
 .paper-figure {
