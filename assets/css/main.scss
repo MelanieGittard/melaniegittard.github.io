@@ -59,6 +59,7 @@
 
 /* Wider Stanford-style navigation banner */
 /* Stanford-style navigation banner */
+/* Stanford-style navigation banner */
 .masthead {
   background-color: #f5f1ee;
   border-bottom: 1px solid rgba(140, 21, 21, 0.28);
@@ -72,8 +73,8 @@
   color: #8C1515 !important;
   font-size: 1.08em;
   font-weight: 400 !important;
-  margin-left: 0.65em;
-  margin-right: 0.65em;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 .greedy-nav .visible-links a:hover {
@@ -82,12 +83,13 @@
 
 @media (min-width: 1024px) {
   .greedy-nav .visible-links .masthead__menu-item--lg {
-    flex: 0 0 295px;
+    width: 285px !important;
     padding-right: 0;
   }
 
   .greedy-nav .visible-links .masthead__menu-item--lg a {
     margin-left: 0;
+    margin-right: 0;
   }
 }
 
