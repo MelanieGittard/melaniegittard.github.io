@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h2 style="font-size:1.15em; font-weight:400; color:#8C1515; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid #e5e5e5;">Job Market Paper</h2>
+<h2 style="font-size:1.15em; font-weight:400; color:#40566B; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid rgba(140,21,21,0.22);">Job Market Paper</h2>
 
 [Climate Migration and Urban Integration in Africa](../files/Gittard_JMP2026.pdf) (with [Eleanor Wiseman](https://www.eleanorwiseman.com/)) - *Job Market Paper*
 
