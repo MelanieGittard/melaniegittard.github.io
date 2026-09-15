@@ -9,7 +9,9 @@ redirect_from:
 
 I am an environmental and development economist and a Postdoctoral Fellow at the [Center on Food Security and the Environment](https://fse.fsi.stanford.edu/) at Stanford University.
 
-I am on the 2026–2027 academic job market. My Job Market Paper, [*Climate Migration and Urban Integration in Africa*](https://melaniegittard.github.io/files/Gittard_JMP2026.pdf), studies how drought-induced migration contributes to the growth of low-quality housing in African cities.
+I am on the <span style="color:#8C1515;">2026–2027 academic job market</span>.
+
+My Job Market Paper, [*Climate Migration and Urban Integration in Africa*](https://melaniegittard.github.io/files/Gittard_JMP2026.pdf), studies how drought-induced migration contributes to the growth of low-quality housing in African cities.
 
 My research examines how households and communities respond to climate change and environmental degradation in Sub-Saharan Africa. I study how climate shocks shape migration, urbanization, agricultural production, and food security, as well as how water pollution from industrial mining affects health outcomes ([*MiningLeaks*](https://melaniegittard.github.io/files/MiningLeaks_Gittard_2026.pdf)).
 
