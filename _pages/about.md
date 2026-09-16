@@ -18,12 +18,16 @@ My research examines how climate change shapes migration, urbanization, agricult
 I am a Research Affiliate at Stanford’s [King Center on Global Development](https://kingcenter.stanford.edu/people/melanie-gittard) and the Paris School of Economics’ [International Migration Economics Chair](https://www.parisschoolofeconomics.eu/en/research/research-initiatives/research-chairs/international-migration-economics-chair/researchers-and-phd-students/). I received my PhD from the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) and [CIRED](https://www.centre-cired.fr/en/) in 2023.
 
 
-<span style="color:#8C1515; font-size:1.1em;">Recent and Upcoming Presentations</span>
+<span style="color:#8C1515; font-size:1.1em;"><em>News!</em></span>
 
-Sep 2026 &nbsp;&nbsp; North American Meeting of the Urban Economics Association
+Here are a few places where I have recently presented or will soon present my Job Market Paper:
+
+Sep 2026 &nbsp;&nbsp; North American Meeting of the Urban Economics Association, Chicago
+
+Sep 2026 &nbsp;&nbsp; Invited Seminar, Department of Agricultural and Applied Economics, University of Wisconsin–Madison
 
 Sep 2026 &nbsp;&nbsp; Invited Presentation, Aix-Marseille School of Economics
 
-Aug 2026 &nbsp;&nbsp; EEA-ESEM
+Aug 2026 &nbsp;&nbsp; EEA–ESEM
 
 A podcast about my PhD research is available [here](https://ingenius.ecoledesponts.fr/articles/sadapter-au-changement-climatique-et-a-la-degradation-de-lenvironnement-en-afrique-subsaharienne/) (in French).
