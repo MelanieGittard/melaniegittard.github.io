@@ -22,17 +22,16 @@ I am a Research Affiliate at Stanford’s [King Center on Global Development](ht
 
 <h2 style="font-size:1.15em; font-weight:400; color:#557B7C; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid rgba(140,21,21,0.22);">News !</h2>
 
-<span style="color:#8C1515; font-size:1.1em;"><em>News!</em></span>
 
 Here are a few places where I have recently presented or will soon present my Job Market Paper:
 
-<span style="color:#557B7C; display:inline-block; width:90px;">Sep 2026</span> North American Meeting of the Urban Economics Association, Chicago
+<span style="color:#8C1515; display:inline-block; width:90px;">Sep 2026</span> North American Meeting of the Urban Economics Association, Chicago
 
-<span style="color:#557B7C; display:inline-block; width:90px;">Sep 2026</span> Invited Seminar, Department of Agricultural and Applied Economics, University of Wisconsin–Madison
+<span style="color:#8C1515; display:inline-block; width:90px;">Sep 2026</span> Invited Seminar, Department of Agricultural and Applied Economics, University of Wisconsin–Madison
 
-<span style="color:#557B7C; display:inline-block; width:90px;">Sep 2026</span> Invited Presentation, Aix-Marseille School of Economics
+<span style="color:#8C1515; display:inline-block; width:90px;">Sep 2026</span> Invited Presentation, Aix-Marseille School of Economics
 
-<span style="color:#557B7C; display:inline-block; width:90px;">Aug 2026</span> EEA–ESEM
+<span style="color:#8C1515; display:inline-block; width:90px;">Aug 2026</span> EEA–ESEM
 
 <h2 style="font-size:1.15em; font-weight:400; color:#557B7C; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid rgba(140,21,21,0.22);">Podcast</h2>
 
