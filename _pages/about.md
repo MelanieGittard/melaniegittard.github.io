@@ -11,7 +11,7 @@ I am an environmental and development economist and a Postdoctoral Fellow at the
 
 I am on the <span style="color:#8C1515;">2026–2027 academic job market</span>.
 
-My Job Market Paper, [*Climate Migration and Urban Integration in Africa*](https://melaniegittard.github.io/files/Gittard_JMP2026.pdf), studies how drought-induced migration contributes to the growth of low-quality housing in African cities.
+My Job Market Paper, [*Climate Migration and Urban Integration in Africa*](https://melaniegittard.github.io/files/Gittard_JMP2026.pdf), studies how drought-induced migration contributes to the growth of low-quality housing in African cities, showing that climate migrants integrate economically but not residentially.
 
 My research examines how climate change and environmental degradation shape migration, urbanization, health, agricultural production, and food security in Sub-Saharan Africa, including through water pollution from industrial mining ([*MiningLeaks*](https://melaniegittard.github.io/files/MiningLeaks_Gittard_2026.pdf)).
 
