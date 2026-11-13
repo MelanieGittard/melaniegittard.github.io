@@ -11,9 +11,9 @@ I am an environmental and development economist and a Postdoctoral Fellow at the
 
 I am on the <span style="color:#8C1515;">2026–2027 academic job market</span>.
 
-My Job Market Paper, [*Climate Migration and Urban Integration in Africa*](https://melaniegittard.github.io/files/Gittard_JMP2026.pdf), studies how drought-induced migration contributes to the growth of low-quality housing in African cities, showing that climate migrants integrate economically but not residentially.
+My Job Market Paper, [*Working, but in Slums: Climate Migration and Urban Integration in Africa*](https://melaniegittard.github.io/files/Gittard_JMP2026.pdf), examines how drought-induced migrants integrate into African cities. I find that climate-related migration increases the number of migrants who work while living in low-quality housing, particularly in small and secondary cities.
 
-My research examines how climate change and environmental degradation shape migration, urbanization, health, agricultural production, and food security in Sub-Saharan Africa, including through water pollution from industrial mining ([*MiningLeaks*](https://melaniegittard.github.io/files/MiningLeaks_Gittard_2026.pdf)).
+My research investigates how environmental shocks affect households in Sub-Saharan Africa, how they respond through migration and adaptation, and how these responses shape urbanization, agriculture, food security, and health (such as in ([*MiningLeaks*](https://melaniegittard.github.io/files/MiningLeaks_Gittard_2026.pdf))). I combine novel datasets with quasi-experimental methods to address these questions.
 
 I am also a Research Affiliate at Stanford’s [King Center on Global Development](https://kingcenter.stanford.edu/people/melanie-gittard) and the Paris School of Economics’ [International Migration Economics Chair](https://www.parisschoolofeconomics.eu/en/research/research-initiatives/research-chairs/international-migration-economics-chair/researchers-and-phd-students/). I received my PhD from the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) and [CIRED](https://www.centre-cired.fr/en/) in 2023.
 
