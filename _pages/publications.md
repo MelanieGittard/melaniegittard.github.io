@@ -42,13 +42,17 @@ author_profile: true
       </p>
     </div>
 
-    <figure class="paper-figure">
-      <img
-        src="figure_slums.png"
-        alt="Drought-induced migration and working poor in African cities"
-        loading="lazy"
-      >
-    </figure>
+    
+<figure class="paper-figure">
+  <a href="/images/figure_slums.png" target="_blank" rel="noopener">
+    <img
+      src="/images/figure_slums.png"
+      alt="Drought-induced migration and working poor in African cities"
+      loading="lazy"
+    >
+  </a>
+</figure>
+
 
   </div>
 </details>
