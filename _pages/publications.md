@@ -7,8 +7,51 @@ author_profile: true
 
 <h2 style="font-size:1.15em; font-weight:400; color:#557B7C; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid rgba(140,21,21,0.22);">Job Market Paper</h2>
 
-[Climate Migration and Urban Integration in Africa](../files/Gittard_JMP2026.pdf) (with [Eleanor Wiseman](https://www.eleanorwiseman.com/)) - *Job Market Paper*
+[Working, but in Slums: Climate Migration and Integration in Urban Africa](../files/Gittard_JMP2026.pdf) (with [Eleanor Wiseman](https://www.eleanorwiseman.com/)) - *Job Market Paper*
 
+<details class="paper-details">
+  <summary>Abstract and figure</summary>
+
+  <div class="paper-details-grid">
+
+    <div class="paper-abstract">
+      <p>
+        How do climate-induced migrants integrate into African cities?
+        We construct annual bilateral migration flows across eight African
+        countries from harmonized census microdata covering 1981–2018,
+        linking migrants’ retrospective migration histories to their
+        housing and employment conditions at destination. We exploit
+        variation in drought exposure at origin along the same migration
+        corridors and use instrumental-variable estimates to characterize
+        urban integration relative to the additional migration associated
+        with drought. We find that climate-responsive migration increases
+        the number of migrants who work but remain in low-quality
+        housing—the urban working poor. In our baseline estimates, 85%
+        of the drought-associated inflow into low-quality housing is
+        employed, compared with 61% among those in adequate housing.
+        More broadly, for every hundred additional migrants associated
+        with drought, approximately twenty-eight are observed in
+        low-quality housing, amounting to roughly 110,000 people across
+        our sample. These residential consequences are particularly
+        pronounced in small and secondary cities, rather than large
+        metropolitan areas. Our findings reveal an important tension in
+        climate adaptation: migrants can participate in urban labor
+        markets without necessarily gaining access to adequate housing,
+        particularly in rapidly growing secondary cities where housing
+        deprivation is already widespread.
+      </p>
+    </div>
+
+    <figure class="paper-figure">
+      <img
+        src="figure_slums.png"
+        alt="Drought-induced migration and working poor in African cities"
+        loading="lazy"
+      >
+    </figure>
+
+  </div>
+</details>
 
 <h2 style="font-size:1.15em; font-weight:400; color:#557B7C; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid rgba(140,21,21,0.22);">Revise & Resubmit</h2>
 
@@ -43,6 +86,34 @@ author_profile: true
 
 <h2 style="font-size:1.15em; font-weight:400; color:#557B7C; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid rgba(140,21,21,0.22);">Working Papers</h2>
 
+
+
+<strong>Climate and the Global Food Supply</strong>
+(with Jennifer Burney, Nathalie Lambrecht, Rosamond Naylor,
+Siddharth Sachdeva, Eleanor Wiseman and Pascal Polonik)
+— <em>Preliminary draft (2026)</em>
+
+<details class="paper-details">
+  <summary>Abstract</summary>
+
+  <div class="paper-abstract">
+    <p>
+      This project investigates how climate change affects global
+      agricultural production beyond the major staple crops traditionally
+      studied. Combining national and subnational crop yield data with
+      high-resolution climate data, we develop climate damage functions
+      across a broad range of crops. We estimate the effects of
+      historical climate shocks on agricultural yields, project future
+      climate impacts, and investigate how differences in crop
+      vulnerability translate into risks for global food and nutrient
+      supplies. By examining the diversity of agricultural production,
+      the project aims to provide a more comprehensive assessment of
+      climate-related risks to food security.
+    </p>
+  </div>
+</details>
+
+
 [Droughts, Migration and Population in Kenya](../files/GITTARD2024a_WP.pdf) — *PSE Working Paper* · *Special Mention, FAERE 2021 · Best Poster Award, ClimRisk2020*
 
 <details class="paper-details">
@@ -71,15 +142,18 @@ author_profile: true
 
 [Climate Resilient School Meals](https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2025-11/RF%20Climate%20Resilient%20School%20Meals%20Report%20-%20Draft.pdf) (with Jennifer Burney, Rosamond Naylor, Nathalie Lambrecht, Siddharth Sachdeva and Eleanor Wiseman) - *FSE Working Paper*
 
+
 <h2 style="font-size:1.15em; font-weight:400; color:#557B7C; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid rgba(140,21,21,0.22);">Work in Progress</h2>
 
 Climate Shocks, Food Security and Market Prices in Africa: The Role of Supply Chains (with [Eleanor Wiseman](https://www.eleanorwiseman.com/)) - *New draft coming soon!*
 
-Climate and the Global Food Supply (with Jennifer Burney, Nathalie Lambrecht, Rosamond Naylor, Siddharth Sachdeva, Eleanor Wiseman and Pascal Polonik) - *New draft coming soon!*
-
 Do Buildings Save Lives? Evaluating the Health Benefits of France’s Residential Energy Efficiency Programs During Extreme Heat Events (with Marshall Burke, Andrew Wilson and Christopher Callahan)
 
+From Farms to Meals: Food Markets and Seasonal Scarcity in Kenya (with [Eleanor Wiseman](https://www.eleanorwiseman.com/))
+
 Industrial Mining, Migration, and Rural Transformation in Africa
+
+
 
 <h2 style="font-size:1.15em; font-weight:400; color:#557B7C; letter-spacing:0.02em; margin-top:1.6em; margin-bottom:0.8em; padding-bottom:0.3em; border-bottom:1px solid rgba(140,21,21,0.22);">Publications in Other Fields</h2>
 
